@@ -1,0 +1,17 @@
+﻿
+# Local secrets (never commit)
+.env
+.env.*
+!.env.example
+
+node_modules/
+__pycache__/
+*.pyc
+.next/
+dist/
+build/
+vendor/
+.venv/
+venv/
+.terraform/
+*.log
