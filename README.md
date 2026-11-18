@@ -59,3 +59,10 @@ Proyek ini dilisensikan di bawah MIT License. Lihat file [LICENSE](LICENSE).
 <div align="center">
   <sub>Beri star jika repositori ini bermanfaat!</sub>
 </div>
+---
+
+## Project Governance
+
+[![CI](https://github.com/aryafatthurahman4-collab/wokwi/actions/workflows/ci.yml/badge.svg)](https://github.com/aryafatthurahman4-collab/wokwi/actions/workflows/ci.yml)
+
+[Contributing](CONTRIBUTING.md) | [Security Policy](SECURITY.md) | [Code of Conduct](CODE_OF_CONDUCT.md)
