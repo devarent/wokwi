@@ -1,3 +1,26 @@
+
+<!-- dbx-style-kit -->
+<div align="center">
+
+<img src="https://img.shields.io/badge/wokwi-1f6feb?style=for-the-badge" alt="wokwi" />
+<img src="https://img.shields.io/badge/LANG%20C%2B%2B-3178c6?style=for-the-badge" alt="LANG C++" />
+<img src="https://img.shields.io/badge/STARS%200-eab308?style=for-the-badge" alt="STARS 0" />
+<img src="https://img.shields.io/badge/LICENSE%20MIT-22c55e?style=for-the-badge" alt="LICENSE MIT" />
+
+<br>
+
+<img src="https://img.shields.io/badge/OPEN%20SOURCE-yes-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="OPEN SOURCE" />
+<img src="https://img.shields.io/badge/BUILT%20IN%20PUBLIC-true-6366f1?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="BUILT IN PUBLIC" />
+<img src="https://img.shields.io/badge/HANDS%20ON%20LABS-52-0ea5e9?style=for-the-badge&logo=docker&logoColor=white" alt="HANDS ON LABS" />
+<img src="https://img.shields.io/badge/DOCUMENTED-yes-14b8a6?style=for-the-badge&logo=markdown&logoColor=white" alt="DOCUMENTED" />
+
+<br>
+
+<b>Simulasi rangkaian Arduino dan ESP32 menggunakan Wokwi.</b>
+
+</div>
+
+---
 <div align="center">
 
 🔬
